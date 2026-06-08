@@ -1,0 +1,1 @@
+# cargo-fridge-website
